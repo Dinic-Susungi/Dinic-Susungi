@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dominique! <br/><a href="https://github.com/Dinic-Susungi">System Engineer</a> <a href="https://github.com/Dinic-Susungi">| Windows & Linux
 
-<h2>👨‍💻 Software Development Projects:</h2>
+
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
