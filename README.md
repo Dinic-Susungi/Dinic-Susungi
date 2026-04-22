@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">System Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">| Windows & Linux
+<h1>Hi, I'm Dominique! <br/><a href="https://github.com/joshmadakor1">System Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">| Windows & Linux
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
