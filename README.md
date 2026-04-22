@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm [Your Name], a System & Linux Engineer with years of hands-on experience designing, securing, and maintaining enterprise infrastructure.
+I'm Dominique, a System & Linux Engineer with years of hands-on experience designing, securing, and maintaining enterprise infrastructure.
 
 I specialize in Red Hat/Linux administration, VMware virtualization, security hardening (STIGs), and automation with Ansible. If a system needs to be reliable, I'll make it reliable.
 
