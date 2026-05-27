@@ -1,12 +1,6 @@
 ## 👋 Hey there!
 
-  Systems Engineer with 7+ years of experience working across Linux and Windows Server environments and network operations.
-
-I build and maintain systems that are secure, reliable, and scalable. Most of my work involves infrastructure, automation, system hardening, and troubleshooting real-world issues across enterprise environments.
-
-
-
-
+  Linux & Windows System Engineer with experience supporting enterprise infrastructure operations across physical and virtual server environments. Skilled in Linux administration, VMware virtualization, monitoring, patch management, centralized logging, automation, storage management, and infrastructure troubleshooting. Experienced working with Red Hat, Oracle Linux, CentOS, Windows Server, Bash scripting, Ansible automation, STIG hardening, and enterprise operational support workflows.
 ### 🧰 Languages and Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
